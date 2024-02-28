@@ -1,0 +1,6 @@
+﻿  Kursovaya 2.0.cpp
+D:\Kurs project\Kursovaya 2.0\Kursovaya 2.0.cpp(44,26): warning C4101: b32: неиспользованная локальная переменная
+D:\Kurs project\Kursovaya 2.0\Kursovaya 2.0.cpp(43,25): warning C4101: a5: неиспользованная локальная переменная
+D:\Kurs project\Kursovaya 2.0\Kursovaya 2.0.cpp(44,21): warning C4101: b31: неиспользованная локальная переменная
+D:\Kurs project\Kursovaya 2.0\Kursovaya 2.0.cpp(43,21): warning C4101: a4: неиспользованная локальная переменная
+  Kursovaya 2.0.vcxproj -> D:\Kurs project\Kursovaya 2.0\x64\Debug\Kursovaya 2.0.exe
